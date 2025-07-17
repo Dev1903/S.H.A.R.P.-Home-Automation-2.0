@@ -1,0 +1,4 @@
+Flask
+requests
+openai-whisper
+google-generativeai
