@@ -1,10 +1,10 @@
 /* eslint-disable prettier/prettier */
 import {PorcupineManager} from '@picovoice/porcupine-react-native';
 
-const accessKey = 'L9sdKrVIR0bnwrcp8y20nMGWjDvXZF5tBtN/YkDC4MtaXUYBmbvmiw==';
+const accessKey = '<ADD YOU ACCESS KEY FROM PICO VOICE CONSOLE>';
 
 const keywordPaths = [
-  'hey_sharp.ppn', // index 0
+  'hey_sharp.ppn', // index 0 CUSTOM PPN FILE U CAN DOWNLOAD ONE FROM PICO VOICE CONSOLE WAKE WORD AND ADD TO ANDROID'S ASSETS FOLDER
   'porcupine.ppn', // index 1
   'bumblebee.ppn', // index 2
 ];
