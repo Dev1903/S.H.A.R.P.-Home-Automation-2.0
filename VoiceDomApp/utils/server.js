@@ -7,7 +7,7 @@ export const sendToServer = async audioPath => {
     name: 'voice.m4a',
   });
 
-  const response = await fetch('http://192.168.29.104:5000/recognize', {
+  const response = await fetch('http://<YOUR ESP IP>/recognize', {
     method: 'POST',
     headers: {'Content-Type': 'multipart/form-data'},
     body: formData,
