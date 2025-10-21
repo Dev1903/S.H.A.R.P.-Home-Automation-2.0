@@ -5,8 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![React Native](https://img.shields.io/badge/React%20Native-bare--CLI-61DBFB?logo=react)
 ![IoT](https://img.shields.io/badge/IoT-ESP8266-orange?logo=arduino)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-Work%20in%20Progress-yellow)
 
 ---
 
